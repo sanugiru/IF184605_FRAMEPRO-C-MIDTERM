@@ -23,6 +23,7 @@
             "require": {
                 "ext-json": "*",
                 "php": "^7.1 || ^8.0"
+                "guzzlehttp/guzzle": "7.4.5"
             },
             "require-dev": {
                 "php-coveralls/php-coveralls": "^2.2",
